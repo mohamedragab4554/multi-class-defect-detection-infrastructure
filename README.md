@@ -1,5 +1,8 @@
 # Multi-Class Defect Detection in Civil Infrastructure Using Deep Learning
 
+> **Superseded.** This was an early upload of my MSc dissertation experiments. The maintained, tested and documented version (package, configs, model card, field validation) is **[concrete-defect-detection-shm](https://github.com/mohamedragab4554/concrete-defect-detection-shm)**. Third-party papers previously stored in `docs/` were removed; see the new repository for citations.
+
+
 ## Overview
 This project presents a deep learning–based framework for **multi-class
 defect detection and semantic segmentation** in civil infrastructure.
@@ -110,3 +113,8 @@ available in the `results/` directory.
 Mohamed Ragab 
 MSc Research – Ulster University  
 Multi-Class Defect Detection for Structural Health Monitoring
+
+
+## Dataset attribution
+
+The sample images and annotations in `data/` are from **dacl10k** (Flotzinger, Rösch & Braml, WACV 2024, arXiv:2309.00460), licensed **CC BY-NC 4.0**. They may not be used commercially.
